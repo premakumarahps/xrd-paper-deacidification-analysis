@@ -1,0 +1,493 @@
+============================================================
+PRESENTATION SLIDES: 6 pages
+
+--- SLIDE 1 ---
+X-Ray Diffraction Analysis 
+of Paper Samples
+E F F E C T S  O F  W A T E R ,  D E A C I D I F I C A T I O N ,  A N D  
+A G E I N G  O N  C E L L U L O S E  C R Y S T A L L I N I T Y
+Name: PREMAKUMARA H.P.S.
+Index No.: 210494D
+Date: 13/09/2024
+
+--- SLIDE 2 ---
+Introduction
+Research Focus: 
+Investigate how washing, 
+deacidification, and artificial 
+ageing affect the nano structural 
+properties of cellulose in paper 
+samples.
+Techniques Used: 
+X-Ray Diffraction (XRD) to study 
+cellulose crystallinity.
+Importance: 
+Crystallinity is very 
+important in the aging 
+and preservation of 
+historical paper materials.
+
+--- SLIDE 3 ---
+Methods and Samples
+Samples:
+• Old "Rag" Paper: From 1831, mostly pure flax fibers.
+• New Whatman Paper: Made from pure cotton fibers.
+• Treatments:
+• Washed in deionized water.
+• Deacidification with Ca(OH)₂ and Mg(HCO₃)₂.
+• Artificial aging at 80°C and 65% RH for 2 weeks.
+Methods: 
+1. XRD: 
+Used to analyze crystallinity changes 
+(Crystallinity Index (CI) & Crystallinity Ratio 
+(CR)).
+𝐶𝐼=𝐼𝑚𝑎𝑥−𝐼𝑚𝑖𝑛
+𝐼𝑚𝑎𝑥
+𝐶𝑅=1-
+𝐼𝑚𝑖𝑛
+𝐼𝑚𝑎𝑥−𝐼𝑚𝑖𝑛
+
+--- SLIDE 4 ---
+Results
+
+--- SLIDE 5 ---
+Conclusion
+Ageing Effects: Artificial aging induces crystallinity in cellulose fibers.
+Conservation Impact: Deacidification treatments do not significantly alter crystallinity in new 
+paper, but aged paper is affected.
+Practical Implication: Washing and deacidification treatments help preserve the structural integrity 
+of historical paper, particularly in preventing excessive crystallization.
+Future Work:
+Investigate other complex paper types (e.g., wood fibers, lignin-containing papers) to fully 
+understand the broader impacts of conservation treatments.
+
+--- SLIDE 6 ---
+Thank you
+
+============================================================
+CASE STUDY: 10 pages
+
+--- CASE STUDY PAGE 1 ---
+MT3054 Characterization of Materials 
+Semester 5 
+ 
+A Case Study X-Ray Diffraction Analysis of Paper 
+Samples: Effects of Water Deacidification 
+Treatments and Artificial Ageing on Cellulose 
+Crystallinity 
+ 
+By 
+Index No. 
+Name 
+Marks 
+210494D 
+PREMAKUMARA H.P.S. 
+ 
+ 
+Date of submission 
+13/09/2024 
+Due date of submission 
+13/09/2024 
+ 
+ 
+ 
+Department of Mechanical Engineering 
+University of Moratuwa 
+Sri Lanka
+
+--- CASE STUDY PAGE 2 ---
+1 
+ 
+ 
+1. Introduction 
+ 
+The preservation of historical documents and archival paper materials requires careful 
+consideration of their chemical and physical stability over time. Conservation treatments, 
+particularly deacidification processes, are widely used to mitigate the effects of environmental 
+deterioration. Previous studies have primarily focused on macroscopic changes in paper 
+properties, such as pH, color, and mechanical strength. However, the effects of conservation 
+treatments at the nano structural level, particularly on cellulose crystallinity, remain 
+underexplored. 
+This study investigates the effects of water deacidification treatments and artificial ageing on 
+the nano structural properties of cellulose in paper samples using X-ray diffraction (XRD). 
+Crystallinity is a key factor influencing the long-term durability of cellulose-based materials, 
+as it can affect their mechanical properties and susceptibility to further degradation. By 
+employing XRD, this research aims to assess the extent to which crystallinity is influenced by 
+conservation treatments and to provide insights into the preservation of paper over time. [1]
+
+--- CASE STUDY PAGE 3 ---
+2 
+ 
+ 
+2. Sample Preparation 
+ 
+Two types of paper samples were selected for the study: old “rag” paper and new Whatman 
+No. 1 paper. The old paper, dating back to 1831, primarily consists of flax fibers, while the 
+Whatman No. 1 paper is composed of pure cotton fibers, serving as the modern reference 
+material. 
+ 
+The preparation process for both samples included a washing step with deionized Millipore 
+Elix III purified water, followed by deacidification treatments. Two different deacidification 
+solutions were used: 0.02 M calcium hydroxide (Ca(OH)₂) and 0.04 M magnesium 
+bicarbonate (Mg(HCO₃)₂). The paper samples were submerged in the deacidification 
+solutions at a ratio of 1 g of paper per 100 ml of solution, with each treatment lasting 30 
+minutes. After treatment, the samples were artificially aged in a climate chamber at 80°C and 
+65% relative humidity for two weeks to simulate the long-term ageing process that occurs 
+naturally in historical documents. 
+ 
+These treated and artificially aged samples were then analyzed using X-ray diffraction (XRD) 
+to assess the impact of these processes on the crystallinity of the cellulose fibers. [1]
+
+--- CASE STUDY PAGE 4 ---
+3 
+ 
+ 
+3. Justification for the Use of X-ray Diffraction 
+ 
+X-ray diffraction (XRD) was chosen as the primary characterization method in this study due 
+to its effectiveness in investigating the nano structural properties of cellulose in paper. XRD 
+provides valuable insights into the crystallinity of cellulose, which is a critical factor in 
+determining the paper’s mechanical strength and its durability over time. By focusing on 
+crystallinity, this study aims to assess how treatments such as washing and deacidification 
+affect the structural integrity of paper. 
+ 
+The XRD technique enables the detection of both crystalline and amorphous regions within 
+cellulose fibers, which is essential for understanding the paper's response to ageing and 
+conservation treatments. The wide-angle X-ray diffraction (WAXD) system used in this 
+research, located at Cardiff University, is equipped with a high-precision setup that allows the 
+detection of features as small as 0.22 to 3.0 nanometers in cellulose structures. The X-ray beam, 
+generated by a Kristalloflex 760 X-ray generator (Bruker AXS, Germany), produces detailed 
+diffraction patterns that reveal the structural changes occurring in the paper samples. 
+ 
+Two key values from the diffraction data—the intensity of the crystalline cellulose peak (Imax) 
+and the intensity of the amorphous scattering background (Imin)—were used to calculate the 
+Crystallinity Index (CI) and Crystallinity Ratio (CR). These metrics provide a quantitative 
+measure of the paper's crystallinity, allowing for a detailed comparison between treated and 
+untreated, aged, and unaged samples. 
+ 
+The use of XRD in this study is particularly relevant, as it allows for non-destructive analysis 
+of fragile historical paper samples, preserving their integrity while yielding critical insights into 
+their structural properties.
+
+--- CASE STUDY PAGE 5 ---
+4 
+ 
+ 
+4. Results and Discussion 
+ 
+The results of the X-ray diffraction (XRD) analysis provided detailed insights into the 
+crystallinity of both the old and new paper samples, with and without conservation treatments. 
+Crystallinity was assessed using two key metrics: the Crystallinity Index (CI) and Crystallinity 
+Ratio (CR). The calculated values for these metrics are presented in tables, highlighting the 
+impact of washing, deacidification, and artificial ageing on the paper samples. 
+ 
+4.1 Old Paper Samples 
+ 
+For untreated old paper samples, the Crystallinity Index (CI) ranged between 0.660 and 0.668, 
+while the Crystallinity Ratio (CR) ranged from 0.484 to 0.504. After washing with deionized 
+water, the crystallinity slightly increased, with CI values of 0.669 to 0.672 and CR values of 
+0.506 to 0.512. Treatment with calcium hydroxide (Ca(OH)₂) resulted in a modest increase in 
+crystallinity, with CI values reaching 0.667 to 0.689 and CR values ranging from 0.502 to 
+0.549. However, treatment with magnesium bicarbonate (Mg(HCO₃)₂) produced mixed results, 
+with a lower CI of 0.586 to 0.651 and a CR of 0.293 to 0.463, indicating that this treatment was 
+less effective in promoting crystallinity. 
+ 
+Table 1 : Crystallinity Index and Crystallinity Ratio of old paper samples 
+ 
+The artificially aged old paper samples showed a significant variation in crystallinity depending 
+on the treatment. Untreated aged samples had a CI between 0.714 and 0.721, while the CR 
+ranged from 0.600 to 0.613. Washing with deionized water resulted in a noticeable decrease in 
+crystallinity, with CI values around 0.671 to 0.676 and CR values between 0.510 and 0.522. 
+Calcium hydroxide treatment maintained similar crystallinity levels, with CI values of 0.670 
+to 0.671 and CR values around 0.507 to 0.510. Magnesium bicarbonate treatment led to a 
+higher crystallinity in aged samples, with a CI of 0.670 to 0.704 and a CR of 0.507 to 0.580.
+
+--- CASE STUDY PAGE 6 ---
+5 
+ 
+ 
+ 
+ 
+Table 2 : Crystallinity Index and Crystallinity Ratio of aged old paper samples 
+ 
+A key finding from the XRD analysis of old paper samples treated with calcium hydroxide was 
+the presence of calcite deposits. This was observed as a distinct reflection in the diffraction 
+patterns, indicating the formation of calcite after treatment. Figure 2 shows the X-ray 
+diffraction image of the old paper treated with calcium hydroxide, where the calcite reflection 
+has been labeled. 
+ 
+ 
+Figure 2 : X-ray diffraction image of old paper treated with Ca(OH)₂ showing calcite 
+reflection
+
+--- CASE STUDY PAGE 7 ---
+6 
+ 
+ 
+4.2 New Paper Samples 
+ 
+The new Whatman paper samples displayed higher overall crystallinity compared to the old 
+rag paper samples. Untreated new paper had CI values of 0.721 to 0.725 and CR values between 
+0.612 and 0.621. Calcium hydroxide treatment slightly increased the crystallinity, with CI 
+values of 0.729 to 0.732 and CR values between 0.629 and 0.634. Treatment with magnesium 
+bicarbonate showed minimal change, with CI values ranging from 0.720 to 0.723 and CR 
+values from 0.611 to 0.618. 
+ 
+ 
+Table 3 : Crystallinity Index and Crystallinity Ratio of new paper samples 
+ 
+After artificial ageing, the crystallinity of new paper samples increased further. Aged untreated 
+samples had CI values of 0.742 to 0.744 and CR values of 0.652 to 0.655. Treatment with 
+calcium hydroxide slightly enhanced crystallinity in aged samples, with CI values reaching 
+0.732 to 0.751 and CR values of 0.635 to 0.668. Magnesium bicarbonate treatment resulted in 
+stable crystallinity levels in aged samples, with CI values between 0.735 to 0.742 and CR 
+values between 0.639 to 0.652. 
+ 
+Table 4 : Crystallinity Index and Crystallinity Ratio of aged new paper samples
+
+--- CASE STUDY PAGE 8 ---
+7 
+ 
+ 
+ 
+4.3 Discussion 
+ 
+The results indicate that the ageing process generally increases the crystallinity of both old and 
+new paper samples. Untreated new paper showed higher crystallinity compared to old paper, 
+likely due to differences in fiber composition (cotton vs. flax). The deacidification treatments, 
+particularly calcium hydroxide, appeared to have a protective effect on crystallinity in old paper 
+samples, preventing significant crystallization during ageing. In contrast, magnesium 
+bicarbonate was less effective in maintaining crystallinity levels in both new and old paper 
+samples. 
+ 
+A key finding from the XRD analysis was the presence of calcite deposits in the old paper 
+samples treated with calcium hydroxide. This was evidenced by a distinct diffraction pattern, 
+suggesting that calcium hydroxide leaves residual calcite, which may influence the overall 
+structural properties of the treated paper. This observation highlights the importance of 
+considering the potential side effects of conservation treatments on historical materials. 
+ 
+Figure 2 : X-ray diffraction image of Whatman paper sample
+
+--- CASE STUDY PAGE 9 ---
+8 
+ 
+ 
+5. Conclusion 
+ 
+This study utilized X-ray diffraction (XRD) to investigate the effects of aqueous conservation 
+treatments and artificial ageing on the crystallinity of cellulose in both old rag and new 
+Whatman paper samples. The results revealed that the ageing process generally increased the 
+crystallinity of both paper types, with new paper displaying higher crystallinity than old paper. 
+This difference is attributed to the variations in fiber composition, with new paper consisting 
+of cotton fibers and old paper composed of flax fibers. 
+ 
+The deacidification treatments, especially with calcium hydroxide (Ca(OH)₂), were found to 
+be effective in preventing further crystallization in aged samples of old rag paper, thereby 
+offering a protective effect during the ageing process. However, the magnesium bicarbonate 
+(Mg(HCO₃)₂) treatment yielded less consistent results, particularly in aged old paper samples, 
+where it was less effective in maintaining crystallinity. Additionally, calcium hydroxide 
+treatment left residual calcite deposits, as evidenced by the XRD diffraction patterns, which 
+may impact the structural integrity of the treated samples. 
+ 
+These findings underscore the importance of selecting appropriate conservation treatments for 
+historical paper materials to preserve their nano structural integrity and prevent excessive 
+crystallization, which could compromise their mechanical properties over time. XRD has 
+proven to be a valuable tool for assessing the nano structural effects of these treatments, 
+offering insights into how conservation methods can influence the long-term durability of 
+cellulose-based materials.
+
+--- CASE STUDY PAGE 10 ---
+9 
+ 
+ 
+6. References 
+ 
+[1] U. Knuutinen, C. J. Kennedy, T. J. Wess, and A. C. Maxwell, "X-Ray diffraction analysis 
+of paper samples – Investigation into the effects of water deacidification treatments and 
+artificial ageing process on cellulose crystallinity," ResearchGate, 2008. [Online]. Available: 
+https://www.researchgate.net/profile/Ulla-Knuutinen/publication/259927491_X-
+Ray_diffraction_analysis_of_paper_samples_-
+_Investigation_into_the_effects_of_water_deacidification_treatments_and_artificial_ageing_
+process_on_cellulose_crystallinity/links/5581850c08ae12bde6e4a615/X-Ray-diffraction-
+analysis-of-paper-samples-Investigation-into-the-effects-of-water-deacidification-treatments-
+and-artificial-ageing-process-on-cellulose-crystallinity.pdf. [Accessed: Sep. 9, 2024].
+
+============================================================
+DURABILITY PAPER: 2 pages
+
+--- DURABILITY PAPER PAGE 1 ---
+X-RAY 
+DIFFRACTION 
+ANALYSIS 
+OF 
+PAPER SAMPLES – INVESTIGATION INTO 
+THE 
+EFFECTS 
+OF 
+WATER, 
+DEACIDIFICATION 
+TREATMENTS 
+AND 
+ARTIFICIAL 
+AGEING 
+PROCESS 
+ON 
+CELLULOSE CRYSTALLINITY 
+Clark A. Maxwell 1, Craig J. Kennedy 2, Tim J. Wess 1 and 
+Ulla Knuutinen 3, 4* 
+1 School of Optometry and the Institute of Vision, Cardiff 
+University, UK, 2 Historic Scotland Conservation Centre, 
+Edinburgh, UK,3  EVTEK University of  Applied Sciences, 
+EVTEK Institute of Art and Design, Conservation Department,  
+Finland, 4 Jyväskylä University, Department of Art and Culture 
+Studies, Jyväskylä, Finland.                                
+*Corresponding author: ulla.knuutinen@evtek.fi 
+1.0 Introduction 
+Aqueous conservation treatments of paper materials are traced 
+often by studying changes of paper properties providing mainly 
+macroscopic information e.g. changes in pH, colour, degree of 
+polymerization and mechanical properties.1, 2 The aim of this 
+research project was to study the effect of washing, 
+deacidification treatments and artificial ageing process on 
+nanostructural properties of cellulose. X-ray diffraction images 
+of paper samples were obtained in order to determine 
+important 
+nano
+
+--- DURABILITY PAPER PAGE 2 ---
+New Paper samples 
+CI 
+CR 
+Reference (untreated) 
+0.725 
+0.621 
+Reference (untreated) 
+0.721 
+0.612 
+Treated with Ca(OH) 2
+0.732 
+0.634 
+Treated with Ca(OH) 2
+0.729 
+0.629 
+Treated  Mg(HCO3) 2
+0.723 
+0.618 
+Treated  Mg(HCO3) 2
+0.720 
+0.611 
+ 
+Table 2. Crystallinity Index and Crystallinity Ratio of the new paper 
+samples. Crystallinity Index Std dev ± 0.0049, Crystallinity Ratio Std 
+dev ± 0.0092 
+ 
+Aged Old Paper samples 
+CI         
+CR 
+Reference (aged) 
+0.721 
+0.613 
+Reference (aged) 
+0.714 
+0.600 
+Washed in deionised H2O 
+0.671 
+0.510 
+Washed in deionised H2O 
+0.676 
+0.522 
+Treated with Ca(OH) 2
+0.671 
+0.510 
+Treated with Ca(OH) 2
+0.670 
+0.507 
+Treated with Mg(HCO3) 2
+0.704 
+0.580 
+Treated with Mg(HCO3) 2
+0.670 
+0.507 
+ 
+Table 3. Crystallinity Index and Crystallinity Ratio of the artificially 
+aged old paper samples. Crystallinity Index Std dev ± 0.0220, 
+Crystallinity Ratio Std dev ± 0.0458. 
+ 
+Aged New Paper samples 
+CI 
+CR 
+Reference (aged) 
+0.744 
+0.655 
+Reference (aged) 
+0.742 
+0.652 
+Treated with Ca(OH) 2
+0.732 
+0.635 
+Treated with Ca(OH) 2
+0.751 
+0.668 
+Treated with Mg(HCO3) 2
+0.742 
+0.652 
+Treated with Mg(HCO3) 2
+0.735 
+0.639 
+ 
+Table 4. Crystallinity Index and Crystalli
+
+============================================================
+RESEARCH OBJECTIVE AND FINDINGS:
+Research Objective and Key Findings
+Research Objective
+The main goal of this research was to understand how different treatments (like washing and deacidification) and aging affect the structure of cellulose (the main component of paper) at the molecular level, specifically focusing on how much of it becomes "crystalline."
+What is Crystallinity?
+Cellulose crystallinity refers to how the cellulose fibers in the paper are arranged. Crystalline cellulose is tightly packed and ordered, which makes the paper stronger and more stable.Non-crystalline cellulose, or amorphous regions, are more loosely packed, which can make the paper weaker and degrade faster over time.
+Why is this important?
+For historical documents and important papers, preserving them over long periods requires understanding what happens to cellulose as it ages. The more crystalline the cellulose is, the better it can maintain its strength and resist degradation over time. The research also focused on how deacidification treatments (which reduce paper acidity) can prevent further damage to the paper.
+How was the research conducted?
+Samples: Two types of paper were used:
+- Old paper (from 1831, made mostly of flax fibers).
+- New Whatman paper (modern paper made of cotton fibers).
+Treatments:
+- The papers were washed with purified water and treated with chemicals to reduce acidity, like Ca(OH)₂ (calcium hydroxide) and Mg(HCO₃)₂ (magnesium bicarbonate).
+Aging Process:
+After the treatments, some of the samples were artificially aged in a controlled environment (80°C and 65% humidity for two weeks) to mimic what would happen to the paper over time.
+Measurements:
+The researchers used X-ray diffraction (XRD) to measure how crystalline the cellulose was before and after treatment and aging. They calculated two things:- Crystallinity Index (CI): A measure of how much of the cellulose is crystalline.- Crystallinity Ratio (CR): Another measure to assess the ratio of crystalline to non-crystalline regions.
+Key Findings:
+Aging increases crystallinity:
+Both old and new paper showed that aging made the cellulose more crystalline, which means the paper's fibers became more ordered over time. However, this might not always be good because it could make the paper more brittle.
+Deacidification with Ca(OH)₂ increased crystallinity:
+Papers treated with Ca(OH)₂ (calcium hydroxide) showed an increase in crystallinity, especially after aging. This treatment seemed to help stabilize the paper, but it also left behind calcite deposits (a mineral).
+Mg(HCO₃)₂ had a lesser impact:
+The paper treated with Mg(HCO₃)₂ (magnesium bicarbonate) had some increase in crystallinity but not as much as with Ca(OH)₂.
+Old paper vs. New paper:
+Old paper started with a lower crystallinity compared to new paper, but after treatments and aging, it still showed an increase.New Whatman paper generally had higher crystallinity overall, meaning it was more structured and stronger from the start.
+Conclusion:
+The study showed that artificial aging increases cellulose crystallinity in both old and new paper.The deacidification treatments helped prevent the paper from becoming too brittle during aging, especially with the calcium hydroxide treatment.The research provides useful insights for paper conservation, helping conservators understand how to better preserve historical documents over time.
+
+============================================================
+XRD PATTERN TO CRYSTALLINITY:
+Mapping XRD Pattern to Crystallinity
+How to Map XRD Pattern to Crystallinity
+Mapping an X-ray diffraction (XRD) pattern to crystallinity involves analyzing the diffraction peaks to distinguish between crystalline and amorphous (non-crystalline) regions in a material like cellulose. Here’s how it works in a simplified, step-by-step manner:
+1. XRD Basics
+XRD patterns are generated when X-rays are passed through a material. The X-rays interact with the atoms, causing them to scatter. When the atoms are arranged in a regular, repeating pattern (as in a crystal), they produce distinctive diffraction peaks.- Crystalline regions: In cellulose, crystalline regions will produce sharp, well-defined peaks in the XRD pattern.- Amorphous regions: Amorphous regions, where atoms are not regularly arranged, produce a broad, diffuse background in the XRD pattern.
+2. Key Features to Look for in XRD Patterns
+- Peak Height (Imax): This is the height of the most prominent diffraction peak, often corresponding to a specific crystalline plane in the material. For cellulose, the (200) plane is commonly used to assess crystallinity.- Baseline Intensity (Imin): This is the intensity of the broad background signal (representing amorphous material) at a position where no sharp peaks are present, often at a fixed angle or scattering vector.
+3. Calculating Crystallinity from XRD Patterns
+Two common methods are used to map XRD patterns to crystallinity:
+1. Crystallinity Index (CI)
+The Crystallinity Index (CI) is a simple measure of the proportion of crystalline material relative to the total material (both crystalline and amorphous).The formula for CI is:CI = (Imax - Imin) / Imax- Imax: The intensity of the highest peak, often the (200) reflection for cellulose.- Imin: The minimum intensity, usually taken from the broad background scatter, representing the amorphous material.A higher CI value means a higher proportion of crystalline regions in the material.
+2. Crystallinity Ratio (CR)
+The Crystallinity Ratio (CR) focuses more on comparing the crystalline to the amorphous material directly. The formula is:CR = 1 - (Imin / (Imax - Imin))This method further adjusts the contribution of the amorphous material, giving another perspective on how the crystalline and non-crystalline regions compare.
+4. Interpreting the Results
+- High CI or CR: A higher crystallinity index or ratio indicates a greater proportion of crystalline material. This means the cellulose fibers are more ordered and packed together, which usually means the material is stronger and more resistant to degradation.- Low CI or CR: A lower crystallinity index or ratio indicates more amorphous regions, where the cellulose fibers are less ordered. This typically suggests weaker paper that may degrade faster over time.
+5. Graphical Representation
+When you look at an XRD pattern, you’ll see:- Sharp peaks representing crystalline regions.- Broad humps or a diffuse background representing the amorphous regions.The height and sharpness of the peaks, along with the broadness of the background, help in calculating the crystallinity.
+6. Visual Example
+For example, in the XRD pattern:- The sharp (200) peak might correspond to Imax, and- The diffuse background might correspond to Imin.By calculating CI and CR using the peak and baseline intensities, you can determine how much of the cellulose in your paper sample is crystalline versus amorphous.
+Summary:
+- Sharp peaks in an XRD pattern indicate crystalline regions.- Broad background indicates amorphous regions.- Using the peak intensity (Imax) and background intensity (Imin), you can calculate crystallinity using CI or CR formulas, giving you an estimate of how ordered (crystalline) the cellulose is in your sample.
