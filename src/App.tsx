@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import confetti from 'canvas-confetti';
+import { Analytics } from '@vercel/analytics/react';
 import { Navbar } from './components/Navbar';
 import { Hero } from './components/Hero';
 import { OverviewSection } from './components/OverviewSection';
@@ -75,6 +76,9 @@ export function App() {
 
       {/* Academic Footer */}
       <Footer setActiveTab={setActiveTab} />
+      
+      {/* Vercel Analytics */}
+      <Analytics />
     </div>
   );
 }
