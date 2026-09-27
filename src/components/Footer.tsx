@@ -162,6 +162,28 @@ export const Footer: React.FC<FooterProps> = ({ setActiveTab }) => {
             Grounded in research by Cardiff University & Historic Scotland (Clark A. Maxwell, Craig J. Kennedy, Tim J. Wess) & EVTEK (Ulla Knuutinen).
           </div>
 
+          <div className="flex items-center gap-4 text-xs">
+            <a
+              href="https://github.com/premakumarahps/xrd-paper-deacidification-analysis"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-slate-400 hover:text-white transition-colors flex items-center gap-1"
+            >
+              <span>GitHub Repository</span>
+              <ExternalLink className="w-3.5 h-3.5" />
+            </a>
+            <a
+              href="https://premakumarahps.vercel.app/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-slate-400 hover:text-white transition-colors flex items-center gap-1"
+            >
+              <span>Main Portfolio</span>
+              <ExternalLink className="w-3.5 h-3.5" />
+            </a>
+          </div>
+
+
           <button
             onClick={scrollToTop}
             className="flex items-center gap-1.5 px-3 py-2 rounded-xl bg-slate-900 hover:bg-slate-800 border border-slate-800 text-slate-300 hover:text-white transition-all text-xs font-medium"
